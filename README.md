@@ -75,7 +75,7 @@ Frame,Angle
 ## Example Output (Plot)
 A line plot showing angle variation over time.
 
-![Example Plot](example_angle_plot.png) *(Replace with actual generated plot image)*
+![Example Plot](angle_plot.png) *(Replace with actual generated plot image)*
 
 ## License
 This script is free to use and modify. Attribution is appreciated.
